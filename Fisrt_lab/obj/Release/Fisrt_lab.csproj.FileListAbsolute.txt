@@ -1,0 +1,10 @@
+C:\CGL\Fisrt_lab\Fisrt_lab\bin\Release\Fisrt_lab.exe.config
+C:\CGL\Fisrt_lab\Fisrt_lab\bin\Release\Fisrt_lab.exe
+C:\CGL\Fisrt_lab\Fisrt_lab\bin\Release\Fisrt_lab.pdb
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.csprojResolveAssemblyReference.cache
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.Form1.resources
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.Form2.resources
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.Properties.Resources.resources
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.csproj.GenerateResource.Cache
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.exe
+C:\CGL\Fisrt_lab\Fisrt_lab\obj\Release\Fisrt_lab.pdb
